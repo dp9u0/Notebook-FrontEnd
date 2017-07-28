@@ -44,7 +44,7 @@
 * SpiderMonkey \(Firefox\) : [\[MDN\]](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey)
 * JavaScriptCore \(Safari\) : [\[Wiki\]](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
 
-# 高级篇
+# [高级篇](/advance/README.md)
 
 * 数据格式
   * JSON 
@@ -79,7 +79,7 @@
 
 ## 版本管理
 
-* git 
+* git
 * svn
 * tfs
 
@@ -97,7 +97,7 @@
   * webpack
   * SeaJS
   * Require.js
-* JavaScript+
+* JavaScript +
   * Bable\(ES6 To JavaScript\)
   * TypeScript
 * CSS 预处理
