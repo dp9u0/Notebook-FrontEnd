@@ -25,7 +25,7 @@
 * Edge : [\[官网\]](https://www.microsoft.com/en-us/windows/microsoft-edge)
 * Internet Explorer : [\[官网\]](https://support.microsoft.com/zh-cn/help/17621/internet-explorer-downloads)
 * Android Browser
-* UC BrowserQQ Browser,360 Browser,
+* UC BrowserQQ Browser,360 Browser
 
 ### 渲染引擎
 
